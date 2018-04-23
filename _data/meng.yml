@@ -24,8 +24,8 @@ background: # Meng background
   switch: true
   background_img: "https://ooo.0o0.ooo/2017/06/14/5940a9b8e4c21.jpg"
   transparent_header: true
-  transparent_footer: false
-  text_color: '#000'
+  transparent_footer: true
+  text_color: '#fff'
 
 card: # Meng card
   switch: true
