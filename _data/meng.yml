@@ -24,8 +24,8 @@ background: # Meng background
   switch: true
   background_img: "https://ooo.0o0.ooo/2017/06/14/5940a9b8e4c21.jpg"
   transparent_header: true
-  transparent_footer: true
-  text_color: '#fff'
+  transparent_footer: false
+  text_color: '#000'
 
 card: # Meng card
   switch: true
@@ -64,6 +64,6 @@ music_player:
 head_card:
   switch: true
   left_img: "https://ooo.0o0.ooo/2017/06/19/5947b272d418b.jpg"
-  left_text: "『 · 如果真爱有颜色 』"
+  left_text: "『 · papaplay 』"
   right_img: "https://ooo.0o0.ooo/2017/06/08/5939484dc618e.png"
   offset_level: 2
