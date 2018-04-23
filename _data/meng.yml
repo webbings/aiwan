@@ -22,7 +22,7 @@ header: # Meng header color + theme-color
 
 background: # Meng background
   switch: true
-  background_img: "https://pic3.zhimg.com/80/v2-f2944f27a87cfdc567cd775dc22e3af3_r.jpg"
+  background_img: "https://pic2.zhimg.com/80/v2-175f650bd24f31968ef34a237426e847_hd.jpg"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
