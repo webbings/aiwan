@@ -52,12 +52,12 @@ music_player:
   player: "aplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    - title: 'Faded'
-      author: 'Alan Walker'
+    - title: 'Take A Bow'
+      author: 'Rihanna'
       url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n2/76/51/521934162.mp3'
       pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
-    - title: 'Unity'
-      author: 'TheFatRat'
+    - title: 'Take A Bow'
+      author: 'Rihanna'
       url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n2/76/51/521934162.mp3'
       pic: 'http://img4.kuwo.cn/star/starheads/240/72/35/3484765923.jpg'
 
