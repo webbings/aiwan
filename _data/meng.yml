@@ -54,11 +54,11 @@ music_player:
   music:
     - title: 'Faded'
       author: 'Alan Walker'
-      url: 'http://www.170mv.com/kw/other.web.rh01.sycdn.kuwo.cn/resource/n2/14/71/3899067167.mp3'
+      url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n2/76/51/521934162.mp3'
       pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
     - title: 'Unity'
       author: 'TheFatRat'
-      url: 'http://www.170mv.com/kw/other.web.ri01.sycdn.kuwo.cn/resource/n2/44/7/1205252665.mp3'
+      url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n2/76/51/521934162.mp3'
       pic: 'http://img4.kuwo.cn/star/starheads/240/72/35/3484765923.jpg'
 
 head_card:
