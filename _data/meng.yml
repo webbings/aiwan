@@ -52,14 +52,14 @@ music_player:
   player: "aplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    - title: 'Take A Bow'
-      author: 'Rihanna'
-      url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n2/76/51/521934162.mp3'
-      pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
-    - title: 'Take A Bow'
-      author: 'Rihanna'
-      url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n2/76/51/521934162.mp3'
-      pic: 'http://img4.kuwo.cn/star/starheads/240/72/35/3484765923.jpg'
+    - title: 'Nevada'
+      author: 'Vicetone&Cozi Zuehlsdorff'
+      url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n1/38/50/2638197666.mp3'
+      pic: 'http://img4.kuwo.cn/star/albumcover/240/66/96/1054571895.jpg'
+    - title: 'Nevada'
+      author: 'Vicetone&Cozi Zuehlsdorff'
+      url: 'http://other.web.nf01.sycdn.kuwo.cn/resource/n1/38/50/2638197666.mp3'
+      pic: 'http://img4.kuwo.cn/star/albumcover/240/66/96/1054571895.jpg'
 
 head_card:
   switch: true
